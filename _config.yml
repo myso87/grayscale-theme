@@ -1,8 +1,8 @@
 # Site settings
-title: CECKY PLESKY
+title: Západ? Východ?
 email: kubik.michal@hotmail.com
 url: https://myso87.github.io
-description: "bla bla bla bla bla . You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Jeden kus Záhoraka a jeden kus Vychodniarky sa kdesi kedysi stretli a tam to začalo..."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -18,10 +18,8 @@ social:
     url:
   - title: instagram
     url: 
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://github.com/myso87
 
 # Build settings
 markdown: kramdown
